@@ -22,7 +22,6 @@ def shayq():
 				
 			else:
 				print("dd is lwer")
-				
-	print(f"{rise}")
+#	print(f"{rise}")
 		
 shayq()
