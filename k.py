@@ -9,7 +9,7 @@ def shayq():
 	
 	while not key:
 		dd=int(input("Enter ,num ber : "))
-	#	rise+=1
+		rise+=1
 		
 		
 		if mat==dd:
@@ -22,6 +22,6 @@ def shayq():
 				
 			else:
 				print("dd is lwer")
-#	print(f"{rise}")
+	print(f"{rise}")
 		
 shayq()
